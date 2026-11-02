@@ -1,6 +1,10 @@
 # IELTS Writing Skills for CodeBuddy
 
+> 🌐 **GitHub Pages 站点**: [https://huyushao521.github.io/ielts-writing-skills/](https://huyushao521.github.io/ielts-writing-skills/)
+
 Two CodeBuddy skills for IELTS Academic Writing: **Task 1** (图表报告) and **Task 2** (学术议论文). These skills transform CodeBuddy into a specialized IELTS writing assistant targeting Band 7+ quality.
+
+The project also includes a **GitHub Pages study site** with IELTS Listening notes, featuring synonym/paraphrase vocabulary organized by frequency (high / medium / low).
 
 ## Features
 
